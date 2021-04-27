@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/curiosityFragment"
+        android:icon="@drawable/ic_curiosity"
+        android:title="@string/curiosity_name" />
+
+    <item
+        android:id="@+id/opportunityFragment"
+        android:icon="@drawable/ic_opportunity"
+        android:title="@string/opportunity_name" />
+
+    <item
+        android:id="@+id/spiritFragment"
+        android:icon="@drawable/ic_spirit"
+        android:title="@string/spirit_name" />
+</menu>

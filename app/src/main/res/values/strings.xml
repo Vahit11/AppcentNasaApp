@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppcentNasaApp</string>
+    <string name="curiosity_name">Curiosity</string>
+    <string name="opportunity_name">Opportunity</string>
+    <string name="spirit_name">Spirit</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="photo_id">id</string>
+    <string name="photo_sol">Sol</string>
+    <string name="photo_earth_date">Earth Date</string>
+</resources>
